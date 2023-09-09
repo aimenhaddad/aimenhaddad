@@ -4,7 +4,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aimen+Haddad!;" />
 </h1>
 <p align="center">
-  <img src="<IMAGE_URL>" width="200" height="200" alt="Your Name" style="border-radius: 50%;">
+    
+  <img src="https://github.com/aimenhaddad/aimenhaddad/blob/main/pictuer/android.gif" width="200" height="200" alt="Your Name" style="border-radius: 50%;">
 </p>
 
 <h3 align="center">MSc student | Data engineering and web technologies | Mobile Dev </h3>
@@ -40,9 +41,9 @@
 </div>
 </div>
 
- <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+ 
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
