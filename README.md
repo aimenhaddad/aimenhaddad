@@ -8,7 +8,8 @@
   <img src="https://github.com/aimenhaddad/aimenhaddad/blob/main/pictuer/android.gif" width="200" height="200" alt="Your Name" style="border-radius: 50%;">
 </p>
 
-<h3 align="center">MSc student | Data engineering and web technologies | Mobile Dev </h3>
+**I'm Aimen** - I'm a  developer, currently,MSc student Data engineering and web technologies, and I'm so interested in Dart/Flutter, Presently, I'm developing Software & apps with Flutter & Java .
+
 
 <br/>
 
@@ -23,7 +24,7 @@
  ⚡ Fun fact **print("Hello, world!")**
  
  </div>
- <h2 align="center">How to reach me</h2>
+ <h2 align="center">🌐 Socials</h2>
 
 <div align="center"> 
  <div> 
@@ -43,7 +44,7 @@
 
  
  
-<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
+<h3 align="center"> 💻  Languages-Frameworks-Tools </h3>
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
