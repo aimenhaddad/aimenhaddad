@@ -20,7 +20,9 @@
  🌱 I’m currently learning **Flutter**
 
  💬 Ask me about **Flutter || Java**
-
+ 
+ 📫 How to reach me: Check social links below.
+ 
  ⚡ Fun fact **print("Hello, world!")**
  
  </div>
